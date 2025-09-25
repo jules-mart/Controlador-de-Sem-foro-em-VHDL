@@ -64,5 +64,3 @@ O projeto é dividido em módulos estruturais:
 
 ---
 
-Quer que eu já adapte esse README em formato **Markdown (.md)** pronto para você subir no repositório?
-
